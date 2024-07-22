@@ -24,7 +24,4 @@ I'm a passionate and curious software developer with a focus on security, automa
 ## 🌐 Let's Connect
 
 - **GitHub:** [GreyHatsonawane](https://github.com/GreyHatsonawane)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile) (if applicable)
-- **Twitter:** [Your Twitter Handle](https://twitter.com/yourhandle) (if applicable)
-
 Feel free to explore my repositories, check out my projects, and reach out if you have any questions or collaboration opportunities!
