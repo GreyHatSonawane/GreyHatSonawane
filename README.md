@@ -10,12 +10,8 @@ I'm a passionate and curious software developer with a focus on security, automa
 ## 🛠️ Skills and Interests
 
 - **Programming Languages:** Python, JavaScript
-- **Web Technologies:** HTML, CSS, JavaScript, React, Angular, Vue.js
-- **Backend Development:** Node.js, Express, Django, Flask
-- **Databases:** MongoDB, PostgreSQL, MySQL
-- **Blockchain & Cryptography:** Ethereum, Bitcoin, Solidity
-- **Automation & Testing:** Selenium, Puppeteer
-- **CI/CD:** Jenkins, GitHub Actions
+- **Web Technologies:** HTML, CSS, JavaScript
+- **Automation & Testing:** Selenium
 
 ## 🚀 Current Projects
 
